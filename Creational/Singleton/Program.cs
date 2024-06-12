@@ -10,5 +10,4 @@ MailConfigurator mailConfigurator = MailConfigurator.CreateInstance();
 mailConfigurator.Host = "smtp.gmail.com";
 
 MailConfigurator mailConfigurator2 = MailConfigurator.CreateInstance();
-mailConfigurator2.Host = "smtp.yandex.com";
 Console.WriteLine(mailConfigurator2.Host);
