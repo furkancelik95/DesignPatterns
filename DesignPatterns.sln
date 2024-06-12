@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Structural\Adapt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Structural\Bridge\Bridge.csproj", "{B6A1C1FC-9667-42DB-B9BB-D4EC24E1A952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Structural\Composite\Composite.csproj", "{86FD170C-61D1-4C21-B046-50684C303D1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B6A1C1FC-9667-42DB-B9BB-D4EC24E1A952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A1C1FC-9667-42DB-B9BB-D4EC24E1A952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A1C1FC-9667-42DB-B9BB-D4EC24E1A952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FD170C-61D1-4C21-B046-50684C303D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FD170C-61D1-4C21-B046-50684C303D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FD170C-61D1-4C21-B046-50684C303D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FD170C-61D1-4C21-B046-50684C303D1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{BA8172BE-F5CE-4E2C-85F4-E1E017EF45A5} = {A0187FAF-25EF-4214-8101-9632D8236238}
 		{BA55EABF-F9AB-4A39-A3FD-9EA528F33784} = {963426CB-8F58-421A-A5BE-07A4C70D2FB4}
 		{B6A1C1FC-9667-42DB-B9BB-D4EC24E1A952} = {963426CB-8F58-421A-A5BE-07A4C70D2FB4}
+		{86FD170C-61D1-4C21-B046-50684C303D1F} = {963426CB-8F58-421A-A5BE-07A4C70D2FB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {289838DA-73F5-4AA3-8143-7C630B15440E}
